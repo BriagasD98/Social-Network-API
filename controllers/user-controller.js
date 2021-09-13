@@ -17,7 +17,7 @@ const userController = {
         });
     },
 
-    // GET one pizza by ID
+    // GET one User by ID
     getUserById({ params }, res) {
         User.findOne({ _id: params.id })
         .populate({
