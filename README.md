@@ -41,6 +41,30 @@ so that the client's website can handle large amounts of unstructured data.
   ![Screenshot (73)](https://user-images.githubusercontent.com/83102464/133183193-13c3bf72-f4cc-419a-9fdd-bbe070250b95.png)
 
   <br/>
+  
+  ### Get All Users & All Thoughts Routes
+  
+  ![allusers allthoughts](https://user-images.githubusercontent.com/83102464/133188245-7b2522f0-0f2e-4f35-a9d6-94ac14e5215c.gif)
+  
+  <br/>
+  
+  ### Get Single User & Single Thought Routes
+  
+  ![singleuser singlethought](https://user-images.githubusercontent.com/83102464/133188342-68697964-d8ce-4840-9e1c-9be0b45274b2.gif)
+  
+  <br/>
+  
+  ### Post, Put & Delete Routes
+  
+  ![postPutDeleteSocialApi](https://user-images.githubusercontent.com/83102464/133188541-217cb37c-c403-479f-a26f-8c5f8ddae44c.gif)
+  
+  <br/>
+  
+  ### Add Friend & Remove Friend Routes
+  
+  ![addremovefriendsgif](https://user-images.githubusercontent.com/83102464/133188586-1f77378f-9f0b-4984-9cf6-6b4a9635ade3.gif)
+  
+  <br/>
 
   ## Video-Walkthrough
   For a Video Walkthrough demonstrating how to start the application and run **Insomnia** tests, please click the following links: <br/>
