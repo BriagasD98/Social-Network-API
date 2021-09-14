@@ -44,7 +44,7 @@ so that the client's website can handle large amounts of unstructured data.
 
   ## Video-Walkthrough
   For a Video Walkthrough demonstrating how to start the application and run **Insomnia** tests, please click the following links: <br/>
-  **Part 1:**
+  **Part 1:** https://drive.google.com/file/d/1OJpjoI7ItjI7qbtTWb8riJ-nIJVjAl2L/view
   <br/>
   
   **Part 2:**
