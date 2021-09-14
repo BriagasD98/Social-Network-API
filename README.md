@@ -8,7 +8,7 @@ so that the client's website can handle large amounts of unstructured data.
 ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
-  * [Video Walkthrough](#Video Walkthrough)
+  * [Video Walkthrough](#VideoWalkthrough)
   * [License](#License)
   * [Contributing](#Contributing)
   * [Questions](#Questions)
