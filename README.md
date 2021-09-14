@@ -34,7 +34,7 @@ so that the client's website can handle large amounts of unstructured data.
   Once the repo has been cloned and all the necessary dependencies have been installed, go to your command line and enter the following command: <br/>
   ```
   npm start
-  ``
+  ```
   **To confirm that you have a successful connection to the NoSQL database, you should see output similar to the picture below:**<br/>
   
   ![Screenshot (73)](https://user-images.githubusercontent.com/83102464/133183193-13c3bf72-f4cc-419a-9fdd-bbe070250b95.png)
