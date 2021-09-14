@@ -47,7 +47,7 @@ so that the client's website can handle large amounts of unstructured data.
   **Part 1:** https://drive.google.com/file/d/1OJpjoI7ItjI7qbtTWb8riJ-nIJVjAl2L/view
   <br/>
   
-  **Part 2:**
+  **Part 2:** https://drive.google.com/file/d/1ofwE6LGkUSNo7aiHzSbDlQj89j7RBFaB/view
   <br/>
   
   ## License
