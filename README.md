@@ -8,7 +8,7 @@ so that the client's website can handle large amounts of unstructured data.
 ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
-  * [Video Walkthrough](#VideoWalkthrough)
+  * [Video Walkthrough](#Video-Walkthrough)
   * [License](#License)
   * [Contributing](#Contributing)
   * [Questions](#Questions)
@@ -42,7 +42,7 @@ so that the client's website can handle large amounts of unstructured data.
 
   <br/>
 
-  ## Video Walkthrough
+  ## Video-Walkthrough
   For a Video Walkthrough demonstrating how to start the application and run **Insomnia** tests, please click the following links: <br/>
   **Part 1:**
   <br/>
