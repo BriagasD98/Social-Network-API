@@ -88,7 +88,7 @@ const userController = {
         .catch(err => res.status(400).json(err));
     },
 
-    // REMOVE reaction
+    // REMOVE friend
     removeFriend({ params }, res) {
         User.findOneAndUpdate(
             { _id: params.id },
